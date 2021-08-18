@@ -102,3 +102,5 @@ The goal here is to be able to generate similar or close representational vector
  ## Global Vectors for Word Representation (GloVe)
 
 Building and training good word embeddings is a tremendous process requiring millions of data samples and exceptional computational power. Luckily for us, folks at the University of Stanford already did this for us and published their results for free on their official website! Their model is called GloVe, and it's going to be what we'll use in the next steps
+
+![](https://github.com/kshitij-pro/sentiment-analysis-of-twitter-data/blob/d390604a95015f4b8a79e6b2e015d2b122cdc543/Screenshot%202021-08-18%20221703.png)
