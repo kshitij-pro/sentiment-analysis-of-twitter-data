@@ -58,6 +58,8 @@ Taking a look at the 20 most informative features of the model, we can notice th
 
 I personally interpret this as follows: Whenever people are in a bad mood, they are confined in such a limited space of words and creativity, in contrast with when they are in a happy mood.
 
+![](https://github.com/kshitij-pro/sentiment-analysis-of-twitter-data/blob/19a8a21498f8b4e2d8a8a2e13e5273b5fcf22985/Screenshot%202021-08-18%20221448.png)
+
 ## Deep Learning Model - LSTM
 
 Deep Learning is a very rapidly growing field, that is proving to be extremely beneficial in various scenarios. One of those scenarios, which we will be studying in this notebook, is the ability to process text data in a much more complex and powerful manner. In fact, in the next section of the notebook we will be focusing on implementing a Deep Learning model that will successfully tackle and solve the above mentioned shortcomings of the Naive Bayes model, such as the lack of relationship between words in a sentence and the poor generalization on previously unseen data.
